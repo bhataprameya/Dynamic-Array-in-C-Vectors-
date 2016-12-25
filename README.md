@@ -1,1 +1,0 @@
-# Dynamic-Array-in-C-Vectors-
